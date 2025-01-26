@@ -1,0 +1,1 @@
+This repository demonstrates a common Scala coding error: a missing return statement in a method definition.  The `bug.scala` file contains the erroneous code.  The corrected version is in `bugSolution.scala`.  This example highlights the importance of ensuring that all code paths within a method return a value of the declared return type.
